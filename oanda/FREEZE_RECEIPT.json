@@ -1,0 +1,15 @@
+{
+  "bot": "oanda",
+  "classification": "baseline_clone",
+  "freeze_source_root": "OAD_FREEZE",
+  "broker": "OANDA Practice FX",
+  "snapshot_label": "OANDA_GREEN_DAY_LOCK_CONTINUOUS_20260414",
+  "profile_label": "practice_green_day_lock_continuous",
+  "runtime_id": "RBOTZILLA_OANDA_CLEAN__OANDA_GREEN_DAY_LOCK_CONTINUOUS_20260414__5446fd8bceea",
+  "canonical_env_fingerprint": "5446fd8bceea",
+  "observed_freeze_env_fingerprint": "16036f266ada",
+  "observed_freeze_build_fingerprint": "00c0d0a4f328",
+  "git_branch": "main",
+  "git_commit": "9ac14c8",
+  "source_note": "Protected April 14 continuous baseline. Later hybrid receipts are intentionally not treated as the same freeze."
+}
