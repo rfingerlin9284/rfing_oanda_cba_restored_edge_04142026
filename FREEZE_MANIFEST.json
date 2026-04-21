@@ -1,0 +1,23 @@
+{
+  "package_name": "rfing_oanda_cba_restored_edge_04142026",
+  "classification": "baseline_clone",
+  "freeze_name": "dual-bot-restored-edge-20260421",
+  "oanda": {
+    "snapshot_label": "OANDA_GREEN_DAY_LOCK_CONTINUOUS_20260414",
+    "profile_label": "practice_green_day_lock_continuous",
+    "runtime_id": "RBOTZILLA_OANDA_CLEAN__OANDA_GREEN_DAY_LOCK_CONTINUOUS_20260414__5446fd8bceea",
+    "canonical_env_fingerprint": "5446fd8bceea",
+    "source_root": "OAD_FREEZE"
+  },
+  "coinbase": {
+    "snapshot_label": "COINBASE_CLEAN_24H_COVERAGE_20260414",
+    "profile_label": "live_focus4_session_truth_sol_overnight",
+    "env_fingerprint": "3e1331f9492e",
+    "source_root": "CBA_FREEZE"
+  },
+  "capital_loss_policy": {
+    "baseline_preserved_unchanged": true,
+    "oanda_optional_giveback_guard_included_in_baseline": false,
+    "note": "The April 14 baseline is frozen first. Capital-protection experiments stay separate until they are proven and intentionally promoted."
+  }
+}
