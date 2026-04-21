@@ -1,0 +1,12 @@
+{
+  "bot": "coinbase_advanced",
+  "classification": "baseline_clone",
+  "freeze_source_root": "CBA_FREEZE",
+  "broker": "Coinbase Advanced Trade",
+  "snapshot_label": "COINBASE_CLEAN_24H_COVERAGE_20260414",
+  "profile_label": "live_focus4_session_truth_sol_overnight",
+  "env_fingerprint": "3e1331f9492e",
+  "git_branch": "master",
+  "git_commit": "1d0579d",
+  "source_note": "Protected April 14 Coinbase freeze baseline. Later live variants should be treated as separate versions unless proven equivalent."
+}
